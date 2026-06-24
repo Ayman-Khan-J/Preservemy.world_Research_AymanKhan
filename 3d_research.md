@@ -15,6 +15,8 @@ Input: Images and camera positions
 Output: Fast-rendering 3D scene
 Use: Interactive heritage visualization
 
+This research was completed as part of the PreserveMy.World onboarding program.
+
 ## Comparison
 COLMAP is easiest for beginners.
 NeRF gives high quality results but requires more computing power.
